@@ -1,0 +1,5 @@
+{
+    "name": "Accretion",
+    "fragmentShader": "Accretion/Accretion.frag",
+    "textures": {}
+}

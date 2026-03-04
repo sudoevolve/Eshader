@@ -1,0 +1,5 @@
+{
+    "name": "Seascape",
+    "fragmentShader": "Seascape/Seascape.frag",
+    "textures": {}
+}

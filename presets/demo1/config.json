@@ -1,0 +1,24 @@
+{
+  "name": "demo1",
+  "commonPath": "demo1/Common.glsl",
+  "buffers": {
+    "Buffer A": {
+      "fragmentShader": "demo1/BufferA.frag",
+      "channels": [
+        { "kind": "buffer", "value": "Buffer A" },
+        { "kind": "none" },
+        { "kind": "none" },
+        { "kind": "none" }
+      ]
+    },
+    "Image": {
+      "fragmentShader": "demo1/Image.frag",
+      "channels": [
+        { "kind": "buffer", "value": "Buffer A" },
+        { "kind": "none" },
+        { "kind": "none" },
+        { "kind": "none" }
+      ]
+    }
+  }
+}

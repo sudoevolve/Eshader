@@ -1,0 +1,23 @@
+{
+  "name": "demo2",
+  "buffers": {
+    "Buffer A": {
+      "fragmentShader": "demo2/BufferA.frag",
+      "channels": [
+        { "kind": "buffer", "value": "Buffer A" },
+        { "kind": "none" },
+        { "kind": "none" },
+        { "kind": "none" }
+      ]
+    },
+    "Image": {
+      "fragmentShader": "demo2/Image.frag",
+      "channels": [
+        { "kind": "buffer", "value": "Buffer A" },
+        { "kind": "none" },
+        { "kind": "none" },
+        { "kind": "none" }
+      ]
+    }
+  }
+}

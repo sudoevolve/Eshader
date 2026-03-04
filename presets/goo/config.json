@@ -1,0 +1,5 @@
+{
+    "name": "goo",
+    "fragmentShader": "goo/goo.frag",
+    "textures": {}
+}
